@@ -1,0 +1,43 @@
+label{
+    font-size: 30px;
+}
+
+input{
+    padding:15px;
+    padding-left:30px;
+    padding-right:30px;
+    margin:20px;
+    font-size: 15px;;
+}
+
+#em{
+    margin-left:80px;
+}
+
+#pw{
+    margin-left:30px;
+}
+
+button{
+    padding:15px;
+    padding-left:30px;
+    padding-right:30px;
+    margin:20px;
+    background-color:brown;
+    font-size:20px;
+    color:white;
+    border:none;
+}
+
+button:hover{
+    background-color:rgb(219, 46, 46);
+    color:black;
+    border:none;
+}
+
+body{
+    border:1px solid black;
+    margin:20px;
+    padding:20px;
+    width: 800px;
+}

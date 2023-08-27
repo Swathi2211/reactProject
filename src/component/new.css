@@ -1,0 +1,14 @@
+
+.child{
+    width : 500px;
+    height : 500px;
+    border : 1px solid black;
+    text-align: center;
+    padding-top: 10px;
+    margin: 10px;
+  }
+  
+  .child img{
+    width : 90%;
+    height : 75%;
+  }
